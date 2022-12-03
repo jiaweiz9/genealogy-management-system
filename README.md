@@ -1,2 +1,6 @@
-# 家谱管理系统
-## 数据结构课程大作业，实现了成员添加、删除、查找等基本功能。通过Qt进行编写，有图形化界面。
+# Genealogy management system
+The course project for *Data Structure*
+
+1. realized **Add/Delete/Modify/Search family member** functions
+2. designed a Tree Structure for data organization
+3. used Qt for UI
