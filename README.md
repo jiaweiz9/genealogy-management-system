@@ -1,6 +1,6 @@
-# Genealogy management system
-The course project for *Data Structure*
+# Genealogy Management System
 
-1. realized **Add/Delete/Modify/Search family member** functions
-2. designed a Tree Structure for data organization
-3. used Qt for UI
+## Features
+1. Implemented **Add/Delete/Modify/Search family member** functions
+2. Designed a Tree Structure for data organization
+3. Desktop application powered by C++ Qt
